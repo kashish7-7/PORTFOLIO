@@ -1,4 +1,4 @@
-# 🚀 Kashish | Interactive 3D Portfolio
+#  Kashish | Interactive 3D Portfolio
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react" alt="React" />
@@ -18,7 +18,7 @@ Through reverse engineering and adaptation of an existing open-source portfolio 
 
 ---
 
-## ✨ Highlights
+##  Highlights
 
 * Interactive 3D portfolio experience
 * React + Three.js powered WebGL environment
@@ -30,7 +30,7 @@ Through reverse engineering and adaptation of an existing open-source portfolio 
 
 ---
 
-## 🧠 What This Project Demonstrates
+##  What This Project Demonstrates
 
 This project showcases:
 
@@ -42,7 +42,7 @@ This project showcases:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -76,7 +76,7 @@ This project showcases:
 
 ---
 
-## 🚀 Running Locally
+##  Running Locally
 
 Clone the repository:
 
@@ -111,13 +111,13 @@ npm run preview
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 As a backend engineer, I wanted to challenge myself by working with a highly visual and frontend-intensive project. This portfolio serves as both a showcase of my technical work and a demonstration of my ability to learn, adapt, and contribute effectively outside my primary technology stack.
 
 ---
 
-## 👤 Author
+## Author
 
 **Kashish**
 

@@ -175,12 +175,7 @@ function AppContent() {
 
           <NavigationUI />
           <GlobalOverlay />
-          <ScreenReaderOverlay />
-          {/* Debug overlay for blank page issues */}
-          <div style={{position:'fixed',top:0,left:0,zIndex:10000,background:'rgba(255,255,0,0.8)',color:'#000',padding:'0.5em',fontWeight:'bold',pointerEvents:'none'}}>
-            Debug: If you see only this yellow bar, the 3D scene is not rendering. Check browser console for errors.
-          </div>
-        </div>
+           </div>
       </SceneProvider>
     </AudioProvider>
   );

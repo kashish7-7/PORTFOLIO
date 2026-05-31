@@ -1,6 +1,8 @@
-import { StrictMode } from 'react'
+import React, { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
+
+window.React = React;
 
 // --- Console Signature for Awwwards Judges ---
 if (typeof window !== 'undefined') {
