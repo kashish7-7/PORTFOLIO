@@ -1,4 +1,3 @@
-import React from 'react';
 import { useAchievements, ACHIEVEMENTS } from '../../context/AchievementsContext';
 import { useAudio } from '../../context/AudioManager';
 import { toggleMute as toggleBgmMute, getIsMuted as getBgmMuted, setMusicVolume } from '../../utils/audioManager';

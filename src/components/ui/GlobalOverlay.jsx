@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef, useCallback } from 'react';
+import { useEffect, useState, useRef, useCallback } from 'react';
 import { useScene } from '../../context/SceneContext';
 import gsap from 'gsap';
 import { TextPlugin } from 'gsap/TextPlugin';

@@ -1,4 +1,3 @@
-import React from 'react';
 import { useAchievements, ACHIEVEMENTS } from '../../context/AchievementsContext';
 import '../../styles/AchievementsPanel.scss';
 
