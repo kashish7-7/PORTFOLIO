@@ -68,8 +68,8 @@ const HeroText = ({ position = [0, 0.3, 0] }) => {
     // Tagline words for split effect
     const taglineWords = useMemo(() => [
         { text: '<', baseX: -0.85, splitDir: -1.5, delay: 0 },
-        { text: 'backend', baseX: -0.4, splitDir: -0.8, delay: 0 },
-        { text: 'engineer', baseX: 0.4, splitDir: 0.8, delay: 0 },
+        { text: 'computer', baseX: -0.4, splitDir: -0.8, delay: 0 },
+        { text: 'application student', baseX: 0.4, splitDir: 0.8, delay: 0 },
         { text: '/>', baseX: 0.85, splitDir: 1.5, delay: 0 },
     ], []);
 
