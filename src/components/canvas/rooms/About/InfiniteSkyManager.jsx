@@ -184,7 +184,7 @@ const IntroMilestone = ({ z, scrollProgressRef }) => {
                 textAlign="center"
                 lineHeight={1.3}
             >
-                Backend-focused AI engineering student with hands-on experience in building and deploying FastAPI-based backend systems and AI-powered chatbots. Experienced in LLM integration, workflow automation, and vector database experimentation. Strong foundation in backend architecture, system design, and applied machine learning, with practical exposure to live, production-oriented projects.
+                Backend & AI Systems Engineer with hands-on expertise in architecting and deploying FastAPI backend services, LLM-powered integrations, and autonomous AI agents. Skilled in workflow automation, vector database search, and scalable backend architecture, backed by practical experience in live production environments.
             </Text>
         </group>
     );

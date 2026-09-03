@@ -13,6 +13,7 @@ import { PerformanceProvider, usePerformance } from './context/PerformanceContex
 import { SceneProvider } from './context/SceneContext';
 import NavigationUI from './components/ui/NavigationUI';
 import GlobalOverlay from './components/ui/GlobalOverlay';
+import ChatbotModal from './components/ui/ChatbotModal';
 import ScreenReaderOverlay from './components/ui/ScreenReaderOverlay';
 import posthog from 'posthog-js';
 
@@ -175,7 +176,8 @@ function AppContent() {
 
           <NavigationUI />
           <GlobalOverlay />
-           </div>
+          <ChatbotModal />
+        </div>
       </SceneProvider>
     </AudioProvider>
   );

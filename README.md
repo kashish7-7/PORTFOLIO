@@ -113,7 +113,7 @@ npm run preview
 
 ##  Purpose
 
-As a backend engineer, I wanted to challenge myself by working with a highly visual and frontend-intensive project. This portfolio serves as both a showcase of my technical work and a demonstration of my ability to learn, adapt, and contribute effectively outside my primary technology stack.
+Driven by backend engineering and AI systems, I wanted to challenge myself by working with a highly visual and frontend-intensive project. This portfolio serves as both a showcase of my technical work and a demonstration of my ability to learn, adapt, and contribute effectively across complex tech stacks.
 
 ---
 
@@ -121,6 +121,6 @@ As a backend engineer, I wanted to challenge myself by working with a highly vis
 
 **Kashish**
 
-Backend Engineer • AI Developer • Intelligent Systems Enthusiast
+Backend & AI Systems Engineer • Intelligent Automation Developer
 
 GitHub: https://github.com/kashish7-7

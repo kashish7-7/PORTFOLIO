@@ -78,7 +78,7 @@ const UNIQUE_PROJECTS = [
         title: 'Potfolio Website',
         front: '/textures/gallery/tylkartki.webp',
         painted: '/textures/gallery/tylkartki_painted.webp',
-        description: 'As a backend engineer, I challenged myself by customizing a frontend-intensive 3D portfolio built on an unfamiliar codebase. This project showcases my ability to reverse engineer, adapt, and extend complex software systems even outside my primary area of expertise.',
+        description: 'Driven by backend engineering and AI systems, I challenged myself to customize and extend this interactive 3D portfolio on a complex WebGL codebase. This project showcases my ability to reverse-engineer, adapt, and build full-stack interactive applications beyond core backend development.',
      techStack: [
           '/textures/gallery/reactlogo.webp',
     '/textures/gallery/threejslogo.webp',

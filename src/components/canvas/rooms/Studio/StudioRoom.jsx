@@ -18,7 +18,7 @@ export const AUDIO_SETTINGS = {
     rolloff: 0.8
 };
 
-const experienceText = `Backend Engineer Intern\nCompany: AndAI (November 2025 – February 2026)\n• Contributed to live backend systems, supporting development and testing in production environments.\n• Worked extensively on backend development using FastAPI and MCP concepts, including building, testing, maintaining and integrating LLM-based services.\n• Performed backend testing and prototyping, building dummy backends with Supabase, experimenting with vector databases, and creating automation workflows using n8n / Flow Enterprise.`;
+const experienceText = `Backend & AI Engineering Intern\nCompany: AndAI (November 2025 – February 2026)\n• Engineered live backend systems, supporting production-level development, deployment, and testing.\n• Architected and maintained backend services using FastAPI and Model Context Protocol (MCP) concepts, seamlessly integrating LLM-powered features.\n• Developed robust backend prototypes with Supabase, experimented with vector database similarity search, and automated enterprise workflows using n8n and Flow Enterprise.`;
 
 const skillsText = `Programming Languages: Python, Basic Java, C/C++, JavaScript, PHP, R
 
@@ -38,7 +38,7 @@ Cloud & Platforms: Siemens Insights Hub
 
 Data Science: Exploratory Data Analysis (EDA), Feature Engineering, Model Validation, Excel
 
-Soft Skills: Backend Problem-Solving, Analytical Thinking, Adaptability in Fast-Paced Environments`;
+Soft Skills: Scalable System Problem-Solving, Analytical Thinking, Adaptability in Fast-Paced Environments`;
 const StudioRoom = ({ showRoom, onReady, isExiting, isWarmup }) => {
     const roomRef = useRef();
     const airplaneGroupRef = useRef();
