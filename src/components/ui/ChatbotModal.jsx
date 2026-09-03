@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import '../../styles/ChatbotModal.scss';
 
 // You can update this chatbot link directly here or pass via props
-export const CHATBOT_URL = "https://chat.example.com";
+export const CHATBOT_URL = "https://agent-6a990da4bcd23f7242f--steady-sherbet-4b56bd.netlify.app";
 
 const ChatbotModal = ({ customLink = CHATBOT_URL }) => {
     const [isOpen, setIsOpen] = useState(true);
