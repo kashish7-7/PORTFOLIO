@@ -25,7 +25,7 @@ export const AUDIO_SETTINGS = {
 // Story sections - positions define where each milestone appears
 // Using CHUNK_LENGTH to create looping story (every ~40 units restarts)
 const STORY_MILESTONES = [
-    { id: 'intro', position: [0, 0, -15], type: 'intro', title: 'Kashish', subtitle: 'Backend & AI Systems Engineer' },
+    { id: 'intro', position: [0, 0, -15], type: 'intro', title: 'Kashish', subtitle: 'MCA GEN AI Student' },
     { id: 'education', position: [0, 0, -55], type: 'education', title: 'Education', subtitle: 'Master of Computer Applications & Bachelor of Computer Applications' },
 ];
 
