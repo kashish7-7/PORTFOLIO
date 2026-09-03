@@ -5,15 +5,7 @@ import '../../styles/ChatbotModal.scss';
 export const CHATBOT_URL = "https://chat.example.com";
 
 const ChatbotModal = ({ customLink = CHATBOT_URL }) => {
-    const [isOpen, setIsOpen] = useState(false);
-
-    useEffect(() => {
-        // Automatically show the popup modal when the site loads
-        const timer = setTimeout(() => {
-            setIsOpen(true);
-        }, 1200);
-        return () => clearTimeout(timer);
-    }, []);
+    const [isOpen, setIsOpen] = useState(true);
 
     if (!isOpen) return null;
 
