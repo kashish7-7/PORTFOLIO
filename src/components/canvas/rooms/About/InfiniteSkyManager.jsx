@@ -184,8 +184,7 @@ const IntroMilestone = ({ z, scrollProgressRef }) => {
                 textAlign="center"
                 lineHeight={1.3}
             >
-                Backend & AI Systems Engineer with hands-on expertise in architecting and deploying FastAPI backend services, LLM-powered integrations, and autonomous AI agents. Skilled in workflow automation, vector database search, and scalable backend architecture, backed by practical experience in live production environments.
-            </Text>
+            Hands-on engineer experienced in architecting and deploying FastAPI backend services, LLM-powered integrations, and autonomous AI agents. Skilled in workflow automation, vector database search, and scalable backend architecture, with proven experience in live production environments.            </Text>
         </group>
     );
 };
