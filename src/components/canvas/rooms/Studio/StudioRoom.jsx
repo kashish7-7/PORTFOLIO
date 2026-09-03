@@ -18,7 +18,7 @@ export const AUDIO_SETTINGS = {
     rolloff: 0.8
 };
 
-const experienceText = `Backend & AI Engineering Intern\nCompany: AndAI (November 2025 – February 2026)\n• Engineered live backend systems, supporting production-level development, deployment, and testing.\n• Architected and maintained backend services using FastAPI and Model Context Protocol (MCP) concepts, seamlessly integrating LLM-powered features.\n• Developed robust backend prototypes with Supabase, experimented with vector database similarity search, and automated enterprise workflows using n8n and Flow Enterprise.`;
+const experienceText = `Intern\nCompany: AndAI (November 2025 – February 2026)\n• Engineered live backend systems, supporting production-level development, deployment, and testing.\n• Architected and maintained backend services using FastAPI and Model Context Protocol (MCP) concepts, seamlessly integrating LLM-powered features.\n• Developed robust backend prototypes with Supabase, experimented with vector database similarity search, and automated enterprise workflows using n8n and Flow Enterprise.`;
 
 const skillsText = `Programming Languages: Python, Basic Java, C/C++, JavaScript, PHP, R
 
