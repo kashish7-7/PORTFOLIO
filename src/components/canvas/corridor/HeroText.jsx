@@ -69,7 +69,7 @@ const HeroText = ({ position = [0, 0.3, 0] }) => {
     const taglineWords = useMemo(() => [
         { text: '<', baseX: -0.85, splitDir: -1.5, delay: 0 },
         { text: 'computer', baseX: -0.4, splitDir: -0.8, delay: 0 },
-        { text: 'application student', baseX: 0.4, splitDir: 0.8, delay: 0 },
+        { text: 'application', baseX: 0.4, splitDir: 0.8, delay: 0 },
         { text: '/>', baseX: 0.85, splitDir: 1.5, delay: 0 },
     ], []);
 
